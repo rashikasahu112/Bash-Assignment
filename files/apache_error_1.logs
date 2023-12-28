@@ -1,0 +1,32 @@
+
+[Tue Dec 12 00:00:00.628412 2023] [mpm_prefork:notice] [pid 802134] AH00163: Apache/2.4.52 (Ubuntu) OpenSSL/3.0.2 configured -- resuming normal operations
+[Tue Dec 12 00:00:00.628435 2023] [core:notice] [pid 802134] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Dec 12 04:03:49.247536 2023] [php:error] [pid 809514] [client 5.188.210.227:39752] script '/var/www/html/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Dec 12 07:17:54.011073 2023] [mpm_prefork:notice] [pid 802134] AH00171: Graceful restart requested, doing restart
+[Tue Dec 12 07:17:54.075373 2023] [ssl:emerg] [pid 802134] AH02565: Certificate and private key mytest.tfoco.dev:443:0 from /etc/ssl/mytest-certs/mytest.pem and /etc/ssl/mytest-certs/localhost.key do not match
+[Tue Dec 12 07:17:54.075418 2023] [:emerg] [pid 802134] AH00020: Configuration Failed, exiting
+[Tue Dec 12 07:21:14.114948 2023] [ssl:emerg] [pid 816451] AH02565: Certificate and private key mytest.tfoco.dev:443:0 from /etc/ssl/mytest-certs/mytest.pem and /etc/ssl/mytest-certs/localhost.key do not match
+AH00016: Configuration Failed
+[Tue Dec 12 07:23:12.210660 2023] [ssl:emerg] [pid 816553] AH02565: Certificate and private key mytest.tfoco.dev:443:0 from /etc/ssl/mytest-certs/mytest.pem and /etc/ssl/mytest-certs/localhost.key do not match
+AH00016: Configuration Failed
+[Tue Dec 12 07:29:52.482355 2023] [ssl:emerg] [pid 816683] AH02565: Certificate and private key mytest.tfoco.dev:443:0 from /etc/ssl/mytest-certs/mytest.pem and /etc/ssl/mytest-certs/localhost.key do not match
+AH00016: Configuration Failed
+[Tue Dec 12 07:30:43.292398 2023] [ssl:emerg] [pid 816710] AH02565: Certificate and private key mytest.tfoco.dev:443:0 from /etc/ssl/mytest-certs/mytest.pem and /etc/ssl/mytest-certs/localhost.key do not match
+AH00016: Configuration Failed
+[Tue Dec 12 07:47:02.659564 2023] [ssl:warn] [pid 816942] AH01909: vm-moodle-dev.internal.cloudapp.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 07:47:02.698018 2023] [ssl:warn] [pid 816943] AH01909: vm-moodle-dev.internal.cloudapp.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 07:47:02.698111 2023] [core:warn] [pid 816943] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 12 07:47:02.703369 2023] [mpm_prefork:notice] [pid 816943] AH00163: Apache/2.4.52 (Ubuntu) OpenSSL/3.0.2 configured -- resuming normal operations
+[Tue Dec 12 07:47:02.703392 2023] [core:notice] [pid 816943] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Dec 12 08:30:32.056756 2023] [mpm_prefork:notice] [pid 816943] AH00171: Graceful restart requested, doing restart
+[Tue Dec 12 08:30:32.134608 2023] [ssl:warn] [pid 816943] AH01909: vm-moodle-dev.internal.cloudapp.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 08:30:32.134798 2023] [mpm_prefork:notice] [pid 816943] AH00163: Apache/2.4.52 (Ubuntu) OpenSSL/3.0.2 configured -- resuming normal operations
+[Tue Dec 12 08:30:32.134805 2023] [core:notice] [pid 816943] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Dec 12 08:35:55.940194 2023] [mpm_prefork:notice] [pid 816943] AH00171: Graceful restart requested, doing restart
+[Tue Dec 12 08:35:56.020402 2023] [ssl:warn] [pid 816943] AH01909: vm-moodle-dev.internal.cloudapp.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 08:35:56.020538 2023] [mpm_prefork:notice] [pid 816943] AH00163: Apache/2.4.52 (Ubuntu) OpenSSL/3.0.2 configured -- resuming normal operations
+[Tue Dec 12 08:35:56.020544 2023] [core:notice] [pid 816943] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Dec 12 08:38:26.910191 2023] [mpm_prefork:notice] [pid 816943] AH00171: Graceful restart requested, doing restart
+[Tue Dec 12 08:38:26.968688 2023] [ssl:warn] [pid 816943] AH01909: vm-moodle-dev.internal.cloudapp.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 08:38:26.968813 2023] [mpm_prefork:notice] [pid 816943] AH00163: Apache/2.4.52 (Ubuntu) OpenSSL/3.0.2 configured -- resuming normal operations
+[Tue Dec 12 08:38:26.968829 2023] [core:notice] [pid 816943] AH00094: Command line: '/usr/sbin/apache2'
